@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jeom</h1>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=16F7EA&background=09101D00&center=true&vCenter=true&width=435&lines=Welcome+to+Jeom's+GitHub+✨" alt="Typing SVG"/>
-</p>
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
 </p>
