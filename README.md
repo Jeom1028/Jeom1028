@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Jeom1028!</h1>
+<h1 align="center">👋 Hi, I'm Jeom</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
