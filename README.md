@@ -21,11 +21,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeom1028&show_icons=true&theme=tokyonight&hide=prs" alt="Jeom1028's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeom1028&theme=tokyonight" alt="GitHub Streak" />
-</p>
